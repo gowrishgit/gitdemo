@@ -7,6 +7,10 @@ public interface BankingClient {
 
 	public void checkingbalance();// Only method name should be used
 
-	
+
+	public void transferbalance(); // Only method name should be used
+
+	public void checkingbalance();// Only method name should be used
+
 
 }

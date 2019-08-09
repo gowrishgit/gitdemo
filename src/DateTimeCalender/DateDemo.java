@@ -9,10 +9,11 @@ public class DateDemo {
 		// TODO Auto-generated method stub
 		Date d = new Date();
 		System.out.println(d.toString());
-		SimpleDateFormat sdf = new SimpleDateFormat("M/d/Y"); // Uppercase M for month
-		System.out.println(sdf.format(d)); // we have to use format method and bring the date object
-		SimpleDateFormat sdf1 = new SimpleDateFormat("M/d/Y hh:mm:ss");
-		System.out.println(sdf1.format(d));
+		a[0] = 2;
+		a[1] = 4;
+		a[2] = 6;
+		a[3] = 8;
+		a[4] = 10;);
 	}
 
 }
