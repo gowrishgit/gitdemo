@@ -50,6 +50,9 @@ public class MimNumber {
 		System.out.println("testing git 1");
 		System.out.println("testing git 3");
 		System.out.println("testing git 4");
+		System.out.println("testing git 5");
+		System.out.println("testing git 6");
+		
 	}
 
 }
