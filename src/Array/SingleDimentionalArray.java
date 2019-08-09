@@ -20,4 +20,10 @@ public class SingleDimentionalArray {
 		}
 	}
 
-}
+}	int a[][] = new int[2][3]; // Decalred multidimentional array with 2 rows and 3 columns
+a[0][0] = 2; 
+a[0][1] = 4;
+a[0][2] = 8;
+a[1][0] = 4;
+a[1][1] = 8;
+a[1][2] = 16;
